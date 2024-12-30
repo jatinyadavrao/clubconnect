@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Home Page: (https://github.com/user-attachments/assets/777718b7-91ad-4dca-90df-7b4eb726ba6d)
+Login Page: (https://github.com/user-attachments/assets/ec721f3e-60bf-4f9c-92e9-6379f1e2286c)
+SignUp Page: (https://github.com/user-attachments/assets/1077e290-226c-43d7-8ad4-de911b3ba95b)
+
 
 ## Getting Started
 
@@ -34,3 +37,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
